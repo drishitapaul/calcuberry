@@ -18,7 +18,7 @@ It’s fully functional, totally purple, and slightly dramatic — just like you
 
 ## 🚀 Live Demo
 
-[🔗 View the Live App]([https://drishitapaul.github.io/calcuberry/])  
+[🔗 View the Live App](https://drishitapaul.github.io/calcuberry/)
 
 ## 🛠️ Tech Stack
 
