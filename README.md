@@ -18,7 +18,7 @@ It’s fully functional, totally purple, and slightly dramatic — just like you
 
 ## 🚀 Live Demo
 
-[🔗 View the Live App](https://your-deployment-link.netlify.app)  
+[🔗 View the Live App]([https://drishitapaul.github.io/calcuberry/])  
 _(replace with your actual Netlify or GitHub Pages link)_
 
 ## 🛠️ Tech Stack
